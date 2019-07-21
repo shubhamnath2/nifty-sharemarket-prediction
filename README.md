@@ -15,6 +15,9 @@ The script 'remain.py' is used as reference with information of other columns an
 Warning:
 The accuracy score is not perfect, therefore predicted closing value may come false. But the objective of implementing this model is to understand the implementation of Machine Learning Model in real life, with good algorithm to apply with reduced error. Happy Learning!!
 
+Configuration:
+You need virtualenv, PyCharm or any other Python GUI to run this model, as this model requires virtualenv to use. PyCharm is prefered with Python3.6 with all the required modules/libraries in venv folder.
+
 References:
 https://towardsdatascience.com/introduction-to-linear-regression-and-polynomial-regression-f8adc96f31cb
 https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
